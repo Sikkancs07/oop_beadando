@@ -1,0 +1,2 @@
+oop_szalloda.py
+szallodai feladat
